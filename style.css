@@ -1,0 +1,34 @@
+img{
+    height: 200px;
+    width: 300px;
+    
+}
+
+body{
+background: repeating-linear-gradient(
+  45deg,
+  #606dbc,
+  #606dbc 10px,
+  #465298 10px,
+  #465298 20px
+);  
+    
+ text-align: center;
+    
+    
+}
+
+.about{
+    height: 6px;
+    width: 70px;
+    
+    background-color: firebrick;
+    margin: 8px auto;
+}
+p{
+    max-width: 400px;
+    margin: 25px auto;
+
+    
+    
+}
